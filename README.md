@@ -1,4 +1,4 @@
-# Subnet Pinger API with Django Celery Postgres Redis Docker
+# Fast, containerized network pinger API with Redis caching and real-time task handling.
 
 ### Summary:
 
